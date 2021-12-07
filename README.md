@@ -24,7 +24,7 @@
 - 💬 Ask me about anything [here](https://github.com/Lecraclav/Lecraclav/issues)
 
 
-###GitHub Stats:**  
+### GitHub Stats:
 
 <a href="https://github.com/KatV1/KatV1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatV1&hide=html,css,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
