@@ -20,7 +20,7 @@
 - 👀 I’m interested in learn, handcraft, and execute a plan to live traveling around the world
 - 🌱 I’m currently learning .NET, Unity, Swift, React, Angular, Xamarin
 - 💻 I’m looking to collaborate on all that I could. If somebody has time for teach me, I will be very happy
-- 🐙 Another account: [Lecraclav](https://github.com/KatValcarcel)
+- 🐙 Another account: [KatValcarcel](https://github.com/KatValcarcel)
 - 💬 Ask me about anything [here](https://github.com/KatValcarcel/KatValcarcel/issues)
 
 
