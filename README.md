@@ -26,10 +26,10 @@
 
 ### GitHub Stats:
 
-<a href="https://github.com/KatV1/KatV1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatV1&hide=html,css,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/katvaldev/katvaldev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katvaldev&hide=html,css,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/KatV1/KatV1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KatV1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="KatV1's GitHub Stats" />
+<a href="https://github.com/katvaldev/katvaldev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=katvaldev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="KatV1's GitHub Stats" />
 </a>
 
