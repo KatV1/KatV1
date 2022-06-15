@@ -18,7 +18,7 @@
 ### I am a Full stack developer 💻
 
 - 👀 I’m interested in learn, handcraft, and execute a plan to live traveling around the world
-- 🌱 I’m currently learning .NET, Unity, Swift, React, Angular, Xamarin
+- 🌱 I’m currently learning Unity, Swift, Ux/UI design and React.js
 - 💻 I’m looking to collaborate on all that I could. If somebody has time for teach me, I will be very happy
 - 🐙 Another account: [KatValcarcel](https://github.com/KatValcarcel)
 - 🏀 Follow me on [Dribble](https://dribbble.com/katvaldev)
