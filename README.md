@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning .NET, Unity, Swift, React, Angular, Xamarin
 - 💻 I’m looking to collaborate on all that I could. If somebody has time for teach me, I will be very happy
 - 🐙 Another account: [KatValcarcel](https://github.com/KatValcarcel)
-- 💬 Ask me about anything [here](https://github.com/KatValcarcel/KatValcarcel/issues)
+- 🏀 Follow me on [Dribble](https://dribbble.com/katvaldev)
 
 
 ### GitHub Stats:
