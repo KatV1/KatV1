@@ -22,6 +22,7 @@
 - 💻 I’m looking to collaborate on all that I could. If somebody has time for teach me, I will be very happy
 - 🐙 Another account: [KatValcarcel](https://github.com/KatValcarcel)
 - 🏀 Follow me on [Dribble](https://dribbble.com/katvaldev)
+- 🕹 First and unique [game](https://katvaldev.itch.io/serial-hunter) for now 
 
 
 ### GitHub Stats:
