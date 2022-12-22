@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning Unity, Swift, Ux/UI design and React.js
 - 💻 I’m looking to collaborate on all that I could. If somebody has time for teach me, I will be very happy
 - 🐙 Another account: [katvala](https://github.com/katvala)
-- 🏀 Follow me on [Dribble](https://dribbble.com/katvaldev)
+- 🏀 Follow me on [Dribble](https://dribbble.com/katvala)
 - 🕹 First and unique [game](https://katvaldev.itch.io/serial-hunter) for now 
 
 
