@@ -6,7 +6,7 @@
   <h1 align="center"><b>Hola, soy Kat! 🦇</b></h1>
 </p>
 <!-- <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/KatV1" />
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/katvaldev" />
 </p> -->
 
 <p align="center">
@@ -20,7 +20,7 @@
 - 👀 I’m interested in learn, handcraft, and execute a plan to live traveling around the world
 - 🌱 I’m currently learning Unity, Swift, Ux/UI design and React.js
 - 💻 I’m looking to collaborate on all that I could. If somebody has time for teach me, I will be very happy
-- 🐙 Another account: [KatValcarcel](https://github.com/KatValcarcel)
+- 🐙 Another account: [katvala](https://github.com/katvala)
 - 🏀 Follow me on [Dribble](https://dribbble.com/katvaldev)
 - 🕹 First and unique [game](https://katvaldev.itch.io/serial-hunter) for now 
 
