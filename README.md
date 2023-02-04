@@ -1,12 +1,12 @@
 <p align="center">
-    <img align="center" alt="visitors" src="https://raw.githubusercontent.com/katv1/katv1/master/batman-hotdog.gif" width=2500  height= 500/>
+    <img align="center" alt="visitors" src="https://raw.githubusercontent.com/valkatla/valkatla/master/batman-hotdog.gif" width=2500  height= 500/>
 </p>
 
 <p>
   <h1 align="center"><b>Hola, soy Kat! 🦇</b></h1>
 </p>
 <!-- <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/katvaldev" />
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/valkatla" />
 </p> -->
 
 <p align="center">
@@ -27,10 +27,10 @@
 
 ### GitHub Stats:
 
-<a href="https://github.com/katvaldev/katvaldev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katvaldev&hide=html,css,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/valkatla/valkatla">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valkatla&hide=html,css,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/katvaldev/katvaldev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=katvaldev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="KatV1's GitHub Stats" />
+<a href="https://github.com/valkatla/valkatla">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=valkatla&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="valkatla's GitHub Stats" />
 </a>
 
